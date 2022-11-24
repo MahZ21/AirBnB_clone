@@ -19,7 +19,7 @@ Environment
 This project is interpreted/tested on Ubuntu 14.04 LTS using python3 (version 3.4.3)
 
 Installation
-Clone this repository: `git clone "https://github.com/MahZ21/AirBnB_clone"
+Clone this repository: `git clone "https://github.com/MahZ21"
 Access AirBnb directory: cd AirBnB_clone
 Run hbnb(interactively): ./console and enter command
 Run hbnb(non-interactively): echo "<command>" | ./console.py
@@ -40,8 +40,7 @@ EOF all create destroy help quit show update
 Bugs
 No known bugs at this time.
 
-Author
+Authors
 Mahlet Zerihun Github || Gmail
-
 License
 Public Domain. No copy write protection.
